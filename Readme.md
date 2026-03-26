@@ -10,7 +10,7 @@ built from absolute zero.
 
 
 ## Progress
-- [ ] Step 1 — Patterns (Loops)
+- [x] Step 1 — Patterns (Loops)
 - [ ] Step 2 — C++ STL
 - [ ] Step 3 — Basic Maths
 - [ ] Step 4 — Recursion
